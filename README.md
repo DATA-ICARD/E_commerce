@@ -8,8 +8,8 @@ Ce projet à été réalisé en 5 étapes :
 
 ETAPE 1 :
 
-Télécharger la donnée (10 000 avis de clientes avec 85% d'avis positifs, note entre 4 et 5)
-Vérfier les incohérences et nettoyer le fichier
+Télécharger la donnée (10 000 avis de clientes avec 85% d'avis positifs, note entre 4 et 5),
+Vérfier les incohérences et nettoyer le fichier,
 Utiliser la librairie Spacy (Tokenization : Lemmatisation, filtre pour garder les verbes , noms, adjectifs et adverbes )
 
 
