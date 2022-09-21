@@ -1,5 +1,7 @@
 # LES AVIS CLIENTS AU SERVICE DE L'EXPERIENCE DES UTILISATRICES.
 
+_Bloc 6 : Projet personnel _
+
 SUJET : 
 Une société d'e-commerce spécialisée dans les protections menstruelles à fait appel à moi pour aider le service marketing à mettre en place une stratégie de fidélisation cliente.
 Concidérent les avis utilisatrices comme une source d'information précieuse dans l'expérience cliente, nous avons décidé d'analyser ces avis afin de mettre en évidence les relations entre sujets d'avis (topics) et les notes.
