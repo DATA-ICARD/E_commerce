@@ -1,12 +1,14 @@
 # LES AVIS CLIENTS AU SERVICE DE L'EXPERIENCE DES UTILISATRICES.
 
-_Bloc 6 : Projet personnel _
+_Bloc 6 : Projet personnel_ 
 
 SUJET : 
 Une société d'e-commerce spécialisée dans les protections menstruelles à fait appel à moi pour aider le service marketing à mettre en place une stratégie de fidélisation cliente.
 Concidérent les avis utilisatrices comme une source d'information précieuse dans l'expérience cliente, nous avons décidé d'analyser ces avis afin de mettre en évidence les relations entre sujets d'avis (topics) et les notes.
 
-Vidéo : https://share.vidyard.com/watch/QaLZuczE6xikBeGJshbdD5 (Durée : 9mn23)  
+_Vidéo_ : https://share.vidyard.com/watch/QaLZuczE6xikBeGJshbdD5 (Durée : 9mn23)  
+_Mail_ : datayannick@gmail.com
+_linkedin_ : https://www.linkedin.com/in/yannick-icard/
 
 Ce projet à été réalisé en 5 étapes :
 
@@ -66,10 +68,6 @@ J’ai mis en place un Docker. L’application a été déployée sur Flask et h
 LE RESULTAT : 
 
 ![image](https://user-images.githubusercontent.com/98116639/172202983-a8873a8d-9ceb-44f2-838e-5383a064be3e.png)
-
-
-
-RETROUVEZ MA PRESENTATION EN VIDEO : https://vimeo.com/716861875/a13132a889 (Durée 7mn40)
 
 
 
