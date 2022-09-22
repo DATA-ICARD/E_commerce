@@ -7,7 +7,7 @@ SUJET :
 Une société d'e-commerce spécialisée dans les protections menstruelles à fait appel à moi pour aider le service marketing à mettre en place une stratégie de fidélisation cliente.
 Concidérent les avis utilisatrices comme une source d'information précieuse dans l'expérience cliente, nous avons décidé d'analyser ces avis afin de mettre en évidence les relations entre sujets d'avis (topics) et les notes.
 
-_Vidéo_ : https://share.vidyard.com/watch/QaLZuczE6xikBeGJshbdD5? (Durée : 9mn23)  
+_Vidéo_ : https://share.vidyard.com/watch/Nx3RQUUTvmNQbV7Cj13Edt? (Durée : 10mn20)  
 _Mail_ : datayannick@gmail.com  
 _linkedin_ : https://www.linkedin.com/in/yannick-icard/
 
