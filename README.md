@@ -61,8 +61,8 @@ ETAPE 5 :
 
 Déploiement de l’application :
 
-L’application est prête à être mise en production !
-J’ai mis en place un Docker. L’application a été déployée sur Flask et hébergée sur Heroku
+L’application est prête à être mise en production !  
+Le code est dans un container Docker et l’application déployée sur Flask et hébergée sur Heroku.  
 
 ![image](https://user-images.githubusercontent.com/98116639/172202079-942ece57-aa05-49ae-9dea-5ff6db7d29a5.png)
 
