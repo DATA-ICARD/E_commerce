@@ -1,5 +1,6 @@
 # LES AVIS CLIENTS AU SERVICE DE L'EXPERIENCE DES UTILISATRICES.
-
+_Note : Pour des questions de confidentialités, le dataset n'est pas présent pas dans Github. Merci pour votre compréhention_  
+  
 _Bloc 6 : Projet personnel_ 
 
 SUJET : 
